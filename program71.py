@@ -1,5 +1,5 @@
 # input 4
-# 4     3   2   1   2   3   4   
+# 4  3   2   1   2   3   4   
 
 def Display(iNo):
     for i in range(iNo, 0, -1):
