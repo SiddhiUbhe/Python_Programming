@@ -1,3 +1,6 @@
+# Area and Perimeter of a Rectangle Write a program to accept the length and width of a rectangle. 
+# Calculate and display the area and perimeter using the formulas:
+
 def RecArea(Num1,Num2):
     Area = Num1 * Num2
     return Area
@@ -17,4 +20,5 @@ def main():
     print("Perimeter of rectangle is : ",result2)
 
 if __name__ == "__main__":
+
     main()
