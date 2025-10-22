@@ -10,8 +10,8 @@ def RecPara(Num1,Num2):
     return Perimeter
 
 def main():
-    Input1 = float(input("Enter length :"))
-    Input2 = float(input("Enter width :"))
+    Input1 = float(input("Enter length : "))
+    Input2 = float(input("Enter width : "))
 
     result1 = RecArea(Input1,Input2)
     result2 = RecPara(Input1,Input2)
@@ -21,4 +21,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
