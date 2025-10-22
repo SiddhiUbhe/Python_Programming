@@ -20,5 +20,5 @@ def main():
     print("Perimeter of rectangle is : ",result2)
 
 if __name__ == "__main__":
-
     main()
+
